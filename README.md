@@ -36,9 +36,9 @@
  </p>
   
 <p>🤝Connect with me</p>
-    <ul><li><a href="www.linkedin.com/in/aditi-pundir-0387621a6">LinkedIn - Aditi Pundir</a></li>
+    <ul><li><a href="https://www.linkedin.com/in/aditi-pundir-0387621a6">LinkedIn - Aditi Pundir</a></li>
   <li><a href="https://www.instagram.com/adi_ti_pundir/">Instagram - adi_ti_pundir</a></li>
-   <li><a href="aditipundir1407@gmail.com">Email - aditipundir1407@gmail.com</a></li>
+   <li><a href="https://www.aditipundir1407@gmail.com">Email - aditipundir1407@gmail.com</a></li>
   
 
 <!---
