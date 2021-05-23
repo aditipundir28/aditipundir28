@@ -26,7 +26,7 @@
     <ul><li>My SQL</li>
     </ul></li>
   <li>⚙Environments knowledge
-    <ul><li>Vishual Studio Code</li>
+    <ul><li>Visual Studio Code</li>
       <li>Android Studio</li>
       <li>Git</li>
       <li>Github</li>
