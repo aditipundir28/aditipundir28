@@ -15,7 +15,7 @@
   <li>💻 Programming Languages
     <ul><li>JAVA</li>
          <li>Python</li>
-      <li>C language</li>
+      <li>C++</li>
     </ul></li>
     <li>🌐Web Technologies
       <ul><li>HTML</li>
