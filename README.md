@@ -6,7 +6,7 @@
 <ul >
            <li>🌏Exploring new technologies and developing software solutions.</li>
            <li>🎓Studying Computer Science and Engineering at Meerut Institute of Engineering and Technology.</li>
-           <li>✨Learning more about Android Development, Cloud Computing and DevOps.</li>
+           <li>✨Learning more about Cloud Computing and DevOps.</li>
            <li>✍Pursuing Technical Writing and painting as hobbies/side hustles.</li>
             </ul>
 </p>
@@ -27,7 +27,6 @@
     </ul></li>
   <li>⚙Environments knowledge
     <ul><li>Visual Studio Code</li>
-      <li>Android Studio</li>
       <li>Git</li>
       <li>Github</li>
       <li>Google Cloud Shell</li>
