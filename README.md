@@ -6,7 +6,7 @@
 <ul >
            <li>🌏Exploring new technologies and developing software solutions.</li>
            <li>🎓Studying Computer Science and Engineering at Meerut Institute of Engineering and Technology.</li>
-           <li>✨Learning more about Cloud Computing and DevOps.</li>
+           <li>✨Learning more about Cloud Computing.</li>
            <li>✍Pursuing Technical Writing and painting as hobbies/side hustles.</li>
             </ul>
 </p>
@@ -30,6 +30,7 @@
       <li>Git</li>
       <li>Github</li>
       <li>Google Cloud Shell</li>
+               <li>Microsoft Azure</li>
     </ul></li>
   </ul>
  </p>
