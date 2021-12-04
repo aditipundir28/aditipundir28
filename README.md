@@ -24,6 +24,7 @@
       </ul></li>
   <li>🛢Database Technology
     <ul><li>My SQL</li>
+               <li>Apache Kafka</li>
     </ul></li>
   <li>⚙Environments knowledge
     <ul><li>Visual Studio Code</li>
