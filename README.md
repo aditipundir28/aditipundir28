@@ -71,7 +71,7 @@
 <div align="center">
 <h2>👷 GitHub Profile:</h2>
 
-![Vaishnavi's github trophy](https://github-profile-trophy.vercel.app/?username=aditipundir28&row=1)
+![Aditi's github trophy](https://github-profile-trophy.vercel.app/?username=aditipundir28&row=1)
 </div>
 
 
