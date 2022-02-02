@@ -41,7 +41,7 @@
 
 <ul >
            <li>🎓Studying Computer Science and Engineering at Meerut Institute of Engineering and Technology.</li>
-           <li>👨‍💻I am Java Developer and Cloud Developer.</li>
+           <li>👨‍💻I am Java and DevOps Engineer.</li>
              <li>🌏Exploring new technologies and developing software solutions.</li>
            <li>✨Learning more about Cloud Computing.</li>
              <li>💼I’m looking for Internship/Full-Time(PPO) Opportunities/roles.</li>
