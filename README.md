@@ -2,7 +2,7 @@
 <p align="center"><samp><b><strong> Hey there!</strong> <img src="https://raw.githubusercontent.com/himanshusharma89/himanshusharma89/master/Hi.gif" width="25px"> </b></samp></p>
 <p align="center"><h1 align="center"><samp> I'm Aditi Pundir</samp></h1></p>
 <p align="center">
-  <h3 align="center"><samp> An Aspiring Java Developer | Cloud Developer | Graphic Designer</samp></h4></p>
+  <h3 align="center"><samp> An Aspiring Java Developer | DevOPS | Graphic Designer</samp></h4></p>
    <br>
 <div align="center">
 <a href="https://www.linkedin.com/in/aditi-pundir-0387621a6/">
